@@ -1,3 +1,10 @@
+LEARNING REDUX TOOLKIT (with NextJS/React framework )
+* [UTILIZIED RTK QUERIRES with creatApi](https://redux-toolkit.js.org/rtk-query/usage/queries)
+* [useQuery hooks for endpoints request](./services/api.tsx)
+* [RTK post & delete request](https://redux-toolkit.js.org/rtk-query/usage/mutations)
+* [app request state Management with createStore caching & createApi ](https://redux-toolkit.js.org/rtk-query/usage/automated-refetching)
+* [Automatic refetch](https://redux-toolkit.js.org/rtk-query/usage/automated-refetching)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
